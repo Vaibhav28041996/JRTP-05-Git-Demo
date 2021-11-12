@@ -8,6 +8,7 @@ public class Jrtp05GitDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Jrtp05GitDemoApplication.class, args);
+		System.out.println("Application Started Successfully");
 	}
 
 }
