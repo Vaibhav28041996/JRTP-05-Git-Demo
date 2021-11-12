@@ -9,4 +9,5 @@ public interface UserDao extends JpaRepository<User, Integer> {
 	 * 
 	 * unfinished work
 	 */
+	public void saveUser(User user);
 }
