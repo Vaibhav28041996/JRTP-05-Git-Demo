@@ -3,7 +3,10 @@ package com.ashokit.beans;
 public class User {
 	private Integer id;
 	private String name;
+
 	private String sirname;
+	private String licNo;
+
 
 	public Integer getId() {
 		return id;
