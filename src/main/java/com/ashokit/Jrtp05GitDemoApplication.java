@@ -10,5 +10,11 @@ public class Jrtp05GitDemoApplication {
 		SpringApplication.run(Jrtp05GitDemoApplication.class, args);
 		System.out.println("Application Started Successfully");
 	}
+	/**
+	  *HIS 200 Issue
+	  */
+	public void getData(){
+		
+	}
 
 }
